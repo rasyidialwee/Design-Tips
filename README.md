@@ -40,12 +40,26 @@ Picking a color for a website means more then picking your favorite color and tu
 
 -   Brown is the color of relaxation and confidence. Brown means earthiness, nature, durability, comfort, and reliability.
 
-# Images
+## Images
 1. overlay image with dark color if you want to add text. be creative, use color gradient and other color overlay too.
 
-# Icons
+## Icons
 1. use icon to show features. select simple flat icon.
 2. Icon should be recognizable instantly.
 3. Label your icon, if space is enough.
 4. Icon should not be the main center attention, but works as supportive.
 5. use icon font whenever possible.
+
+## Spacing and Layout
+1. Utilize Whitespace
+	in element
+	between group of elements
+	between website's sections
+2. Define Hierarchy
+	Define where you want audience to look first
+	establish a flow that corresponds to your contents message
+	use whitespace to build flow
+	
+## User Experience
+1. User **interface** is the presentation of a product, how it look and feel.
+2. User **experience** is the overall experience the user has with a product.
