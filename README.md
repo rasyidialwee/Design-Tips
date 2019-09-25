@@ -49,4 +49,3 @@ Picking a color for a website means more then picking your favorite color and tu
 3. Label your icon, if space is enough.
 4. Icon should not be the main center attention, but works as supportive.
 5. use icon font whenever possible.
-
